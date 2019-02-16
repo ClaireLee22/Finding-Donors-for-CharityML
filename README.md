@@ -26,7 +26,7 @@ Evaluate 10 supervised learning algorithms that are currently available in sciki
 
 ### Project Results
   - Gradient Boosting algorithm performed best in f-score and accuracy on the testing dataset
-  - Improve model performance after model tuning using grid search
+  - Improve model performance after tuning model using grid search
   
     | Metric | Unoptimized Model | Optimized Model |
     | :---:   | :-: | :-: |
