@@ -11,6 +11,13 @@ Apply supervised learning techniques and an analytical mind on data collected fo
   - Transfered skewed continous features
   - One-hot encoding
 - Evaluated performance of several supervised learning algorithms
+  - Gaussian Naive Bayes (GaussianNB)
+  - Decision Trees
+  - Ensemble Methods (Bagging, AdaBoost, Random Forest, Gradient Boosting)
+  - K-Nearest Neighbors (KNeighbors)
+  - Stochastic Gradient Descent Classifier (SGDC)
+  - Support Vector Machines (SVM)
+  - Logistic Regression
 - Choose the best model
 - Tuned model parameters using grid search
 - Evaluated feature importance to optimize the model's performance
