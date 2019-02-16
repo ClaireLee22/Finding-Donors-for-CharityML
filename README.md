@@ -3,9 +3,18 @@ Supervised Learning Project [Udacity Machine Learning Nanodegree]
 
 ## Project Overview
 ### Project Description
+Apply supervised learning techniques and an analytical mind on data collected for the U.S. census to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause. 
 
+### Project procedure
+- Explored the data
+- Preprocessed the data
+  - Transfered skewed continous features
+  - One-hot encoding
+- Evaluated performance of several supervised learning algorithms
+- Choose the best model
+- Tuned model parameters using grid search
+- Evaluated feature importance using feature_importances_ attribute and recursive feature elimination(RFE) to optimize the model's performance
 
-### Project Methods
 ### Project Results
 
 ## Getting Started
