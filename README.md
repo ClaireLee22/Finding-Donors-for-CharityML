@@ -3,7 +3,7 @@ Supervised Learning Project [Udacity Machine Learning Nanodegree]
 
 ## Project Overview
 ### Project Description
-Apply supervised learning techniques and an analytical mind on data collected for the U.S. census to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause. 
+Evaluate 10 supervised learning algorithms that are currently available in scikit-learn on data collected for the U.S. census to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause. 
 
 ### Project Procedure
 - Explore the data
