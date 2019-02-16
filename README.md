@@ -27,6 +27,7 @@ Apply supervised learning techniques and an analytical mind on data collected fo
 ### Project Results
   - Gradient Boosting algorithm performed best in f-score and accuracy on the testing dataset
   - Improved model performance after model tuning using grid search
+  
   | Metric | Unoptimized Model | Optimized Model |
   | :---:   | :-: | :-: |
   | Accuracy | 0.8630 | 0.8705 |
