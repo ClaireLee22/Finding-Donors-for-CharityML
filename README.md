@@ -25,6 +25,12 @@ Apply supervised learning techniques and an analytical mind on data collected fo
   - recursive feature elimination(RFE)
 
 ### Project Results
+  - Gradient Boosting algorithm performed best in f-score and accuracy on the testing dataset
+  - Improved model performance after model tuning using grid search
+  | Metric | Unoptimized Model | Optimized Model |
+  | :---:   | :-: | :-: |
+  | Accuracy | 0.8630 | 0.8705 |
+  | F-score | 0.7395 | 0.7513 |
 
 ## Getting Started
 ### Prerequisites
