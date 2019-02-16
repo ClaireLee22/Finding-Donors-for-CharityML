@@ -6,11 +6,11 @@ Supervised Learning Project [Udacity Machine Learning Nanodegree]
 Apply supervised learning techniques and an analytical mind on data collected for the U.S. census to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause. 
 
 ### Project Procedure
-- Explored the data
-- Preprocessed the data
+- Explore the data
+- Preprocesse the data
   - Transfered skewed continous features
   - One-hot encoding
-- Evaluated performance of several supervised learning algorithms
+- Evaluate performance of several supervised learning algorithms
   - Gaussian Naive Bayes (GaussianNB)
   - Decision Trees
   - Ensemble Methods (Bagging, AdaBoost, Random Forest, Gradient Boosting)
@@ -19,19 +19,27 @@ Apply supervised learning techniques and an analytical mind on data collected fo
   - Support Vector Machines (SVM)
   - Logistic Regression
 - Choose the best model
-- Tuned model parameters using grid search
-- Evaluated feature importance to optimize the model's performance
+- Tune model parameters using grid search
+- Evaluate feature importance to optimize the model's performance
   - feature_importances_  attribute 
   - recursive feature elimination(RFE)
 
 ### Project Results
   - Gradient Boosting algorithm performed best in f-score and accuracy on the testing dataset
-  - Improved model performance after model tuning using grid search
+  - Improve model performance after model tuning using grid search
   
     | Metric | Unoptimized Model | Optimized Model |
     | :---:   | :-: | :-: |
     | Accuracy | 0.8630 | 0.8705 |
     | F-score | 0.7395 | 0.7513 |
+    
+  - Both accuracy score and f-score are slightly declined on the reduced data(top 5 important features) than the scores on the full data.     However, it decreases substantial training time. 
+  
+    | Metric | Final Model trained on full data |  Final Model trained on reduced data  |
+    | :---:   | :-: | :-: |
+    | Accuracy | 0.8705 | 0.8590 |
+    | F-score | 0.7513 | 0.7252 |
+    | Train time | 5.7013 | 54.9721|
 
 ## Getting Started
 ### Prerequisites
