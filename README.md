@@ -21,7 +21,7 @@ Apply supervised learning techniques and an analytical mind on data collected fo
 - Choose the best model
 - Tuned model parameters using grid search
 - Evaluated feature importance to optimize the model's performance
-  - feature_importances_ attribute 
+  - feature_importances_  attribute 
   - recursive feature elimination(RFE)
 
 ### Project Results
