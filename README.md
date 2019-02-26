@@ -7,7 +7,7 @@ Evaluate 10 supervised learning algorithms that are currently available in sciki
 
 ### Project Procedure
 - Explore the data
-- Preprocesse the data
+- Preprocess the data
   - Transfered skewed continous features
   - One-hot encoding
 - Evaluate performance of several supervised learning algorithms
