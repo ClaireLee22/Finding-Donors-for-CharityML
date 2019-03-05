@@ -21,8 +21,8 @@ Evaluate 10 supervised learning algorithms that are currently available in sciki
 - Choose the best model
 - Tune model parameters using grid search
 - Evaluate feature importance to optimize the model's performance
-  - feature_importances_  attribute 
-  - recursive feature elimination(RFE)
+  - Feature_importances_  attribute 
+  - Recursive feature elimination(RFE)
 
 ### Project Results
   - Gradient Boosting algorithm performed best in f-score and accuracy on the testing dataset
